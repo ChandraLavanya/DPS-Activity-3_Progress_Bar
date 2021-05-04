@@ -1,0 +1,15 @@
+D:\POC\Activity-3_ProgressBar\Activity-3_ProgressBar\bin\Debug\Activity-3_ProgressBar.exe.config
+D:\POC\Activity-3_ProgressBar\Activity-3_ProgressBar\bin\Debug\Activity-3_ProgressBar.exe
+D:\POC\Activity-3_ProgressBar\Activity-3_ProgressBar\bin\Debug\Activity-3_ProgressBar.pdb
+D:\POC\Activity-3_ProgressBar\Activity-3_ProgressBar\obj\Debug\Activity-3_ProgressBar.csprojAssemblyReference.cache
+D:\POC\Activity-3_ProgressBar\Activity-3_ProgressBar\obj\Debug\MainWindow.g.cs
+D:\POC\Activity-3_ProgressBar\Activity-3_ProgressBar\obj\Debug\App.g.cs
+D:\POC\Activity-3_ProgressBar\Activity-3_ProgressBar\obj\Debug\Activity-3_ProgressBar_MarkupCompile.cache
+D:\POC\Activity-3_ProgressBar\Activity-3_ProgressBar\obj\Debug\Activity-3_ProgressBar_MarkupCompile.lref
+D:\POC\Activity-3_ProgressBar\Activity-3_ProgressBar\obj\Debug\MainWindow.baml
+D:\POC\Activity-3_ProgressBar\Activity-3_ProgressBar\obj\Debug\Activity-3_ProgressBar.g.resources
+D:\POC\Activity-3_ProgressBar\Activity-3_ProgressBar\obj\Debug\Activity_3_ProgressBar.Properties.Resources.resources
+D:\POC\Activity-3_ProgressBar\Activity-3_ProgressBar\obj\Debug\Activity-3_ProgressBar.csproj.GenerateResource.cache
+D:\POC\Activity-3_ProgressBar\Activity-3_ProgressBar\obj\Debug\Activity-3_ProgressBar.csproj.CoreCompileInputs.cache
+D:\POC\Activity-3_ProgressBar\Activity-3_ProgressBar\obj\Debug\Activity-3_ProgressBar.exe
+D:\POC\Activity-3_ProgressBar\Activity-3_ProgressBar\obj\Debug\Activity-3_ProgressBar.pdb
